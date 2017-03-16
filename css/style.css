@@ -774,4 +774,6 @@ body{
     line-height: 22px;
     text-align: center;
 }
+li{
+    left: 0px;
 }
